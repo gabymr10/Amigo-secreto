@@ -1,4 +1,4 @@
-# 🎁 Desafio de crear el Juego de Amigo Secreto, del programa ONE, de Alura.
+# 🎁 Desafío de crear el Juego de Amigo Secreto, del programa ONE, de Alura.
 
 ✏️ **Descripción**
 
